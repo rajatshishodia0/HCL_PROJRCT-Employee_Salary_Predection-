@@ -3,5 +3,4 @@ seaborn
 pandas
 xgboost
 sklearn
-joblib
-plotly
+
